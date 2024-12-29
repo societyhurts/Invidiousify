@@ -1,6 +1,6 @@
 # Invidiousify
 
-**Invidiousify** is a userscript created to do one simple task to replace links with Invidious
+**Invidiousify** is a userscript created to do one simple task, replace links with Invidious.
 
 ## Installation
 
